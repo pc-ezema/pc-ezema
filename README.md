@@ -10,15 +10,15 @@
 
 ###
 
-```bash
-import WebDeveloper from 'promise';
-import { Languages, Frameworks } from 'promise/skills';
+```diff
+- import WebDeveloper from 'promise';
+- import { Languages, Frameworks } from 'promise/skills';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Promise Ezema';
   title    = 'Web Developer';
   location = 'Lagos, Nigeria';
-}
+} 
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP', ...Languages];
