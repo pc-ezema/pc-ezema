@@ -11,7 +11,7 @@
 ###
 
 ```diff
-- import Software Developer from 'promise';
+- import SoftwareDeveloper from 'promise';
 - import { Languages, Frameworks } from 'promise/skills';
 
 class Bio extends SoftwareDeveloper {
