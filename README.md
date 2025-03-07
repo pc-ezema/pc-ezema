@@ -11,12 +11,12 @@
 ###
 
 ```diff
-- import WebDeveloper from 'promise';
+- import Software Developer from 'promise';
 - import { Languages, Frameworks } from 'promise/skills';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Promise Ezema';
-  title    = 'Web Developer';
+  title    = 'Software Developer';
   location = 'Lagos, Nigeria';
 } 
 
